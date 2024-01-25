@@ -34,7 +34,7 @@ Here is the repository for Homework 1!
 
 ### This is my AI-Generated Illustration made by my friend
 
-![AI_Profile_Picture](images/AI_keith_400.png)
+![AI_Profile_Picture](/images/AI_keith_400.png)
 
 ### 3 of My Hobbies
 
