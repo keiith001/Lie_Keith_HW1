@@ -4,7 +4,7 @@ Here is a repo for MMED-1054 Multimedia Authoring Homework #1 by Keith &amp; Nat
 ## Keith Richard Lie
 ### This is my AI-Generated Illustration made by my friend
 
-![AI_Profile_Picture](images/AI_keith_400.png)
+![AI_Profile_Picture](/images/AI_keith_400.png)
 
 ### 3 of My Hobbies
 
