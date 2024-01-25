@@ -68,6 +68,7 @@ It depends on waking up time
 ## In a case out of the battery
 
 **Nate** \- Coffee ☕️ (up to 6 hours)
+
 **Keith** \- Power Nap 😴 (1 hour power nap for another 4 hours of work)
 
 ---
@@ -89,6 +90,7 @@ It depends on waking up time
 ## Credits
 
 Natchanon Nate Mahaittidon
+
 Keith Richard Lie
 
 ---
