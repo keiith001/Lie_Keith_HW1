@@ -30,7 +30,28 @@ Here is the repository for Homework 1!
 
 ---
 
-<!-- Keith Area -->
+## Keith Richard Lie
+
+### This is my AI-Generated Illustration made by my friend
+
+![AI_Profile_Picture](images/AI_keith_400.png)
+
+### 3 of My Hobbies
+
+1.  Watching movies and series (especially Korean Drama!) 🍿🎬🎥
+2.  Reading comics (especially japan manga!)
+3.  Playing casual games, prefer adventure/story based game 🎮
+
+### 3 of My Design Milestones
+
+-  Be an expert in UI/UX design (maybe working at big companies or UX Consultant Agencies)
+-  Building a graphic design studio
+-   Contribute to the society through design (some social-based design projects)
+
+### My life in 10 emojis
+
+🤔 😪 🤣 🎮 🍿 🍙 🍤 🍔 🍣 🍜
+
 
 ## Installation
 
@@ -47,7 +68,7 @@ It depends on waking up time
 ## In a case out of the battery
 
 **Nate** \- Coffee ☕️ (up to 6 hours)
-<!-- Keith area -->
+**Keith** \- Power Nap 😴 (1 hour power nap for another 4 hours of work)
 
 ---
 
@@ -68,7 +89,7 @@ It depends on waking up time
 ## Credits
 
 Natchanon Nate Mahaittidon
-<!-- Keith area -->
+Keith Richard Lie
 
 ---
 
